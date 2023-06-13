@@ -1,0 +1,15 @@
+input:required {
+    border: 2px solid #F05252;
+    border-radius: 8px;
+    font-size: 19px;
+}
+button {
+    border-radius: 8px;
+    font-size: 18px;
+}
+body {
+    text-align: center;
+    margin-top: 200px;
+    font-size: 25px;
+    background-color: aquamarine;
+}
